@@ -1,0 +1,30 @@
+{
+  "name": "ecommerceapi",
+  "version": "1.0.0",
+  "description": "1.Clone the project from github\r 2.install npm if not already \r 3.install required node_modules by using the command npm install\r 4.start the project by using the command npm start from the terminal .Make sure to check the pwd(presend working directory is same as the project)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoLifeJustCode/EcommerceApi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "ecommerce",
+    "CRUD"
+  ],
+  "author": "Octane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoLifeJustCode/EcommerceApi/issues"
+  },
+  "homepage": "https://github.com/NoLifeJustCode/EcommerceApi#readme"
+}
